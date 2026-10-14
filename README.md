@@ -127,11 +127,9 @@ Lưu ảnh chụp màn hình vào thư mục `screenshots/` trong repository.
 
 ### 7.2. Báo cáo Summary Report
 
-Ảnh minh họa cần thể hiện tổng số request, thời gian phản hồi trung bình, thời gian nhỏ nhất/lớn nhất và tỷ lệ lỗi.
 
 ![Báo cáo Summary Report](summary-report.png)
 
-**Lưu ý:** Hai ảnh trên cần được chụp từ kết quả chạy thực tế trong JMeter và tải lên đúng thư mục `screenshots/`. Tên file ảnh trong repository phải trùng với tên được tham chiếu trong README.
 
 ## 8. Nhận xét và đánh giá
 
